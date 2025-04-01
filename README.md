@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/github/stars/naveenkumar?style=for-the-badge&label=⭐ GitHub Stars&color=gold" alt="GitHub Stars"/>
 </p>
 
+
 ## 👋 About Me
 Hi there! I'm **Naveen Kumar B.**, a passionate **B.Tech Information Technology student** from 📚 **K. Ramakrishnan College of Engineering, Samayapuram**. With a blend of analytical prowess and a passion for innovation, I continuously seek opportunities to grow and create impactful tech solutions.
 
