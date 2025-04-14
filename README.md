@@ -49,7 +49,7 @@ Hi there! I'm **Naveen Kumar B.**, a passionate **B.Tech Information Technology 
 - 🤖 **Finalist at Daksh AI Hackathon**, SASTRA University (INR 10,000 grant)
 - 📜 **First Prize** in multiple paper presentations
 - 🏋️‍♂️ **First Prize** in bodybuilding competitions
-- 🏆 **Mr. Fashionate 25** – K. Ramakrishnan College of Engineering
+- 🏆 **Mr. Fashionate'25** – K. Ramakrishnan College of Engineering
 
 ---
 ## 🌟 Connect with Me
