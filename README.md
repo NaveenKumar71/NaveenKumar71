@@ -47,9 +47,9 @@ Hi there! I'm **Naveen Kumar B.**, a passionate **B.Tech Information Technology 
 
 - 🥇 **Solved 1000+ coding challenges** on LeetCode, HackerRank, and Skillrack
 - 🤖 **Finalist at Daksh AI Hackathon**, SASTRA University (INR 10,000 grant)
-- 💻 Participant in **Vertex Hackathon**, VIT Vellore
 - 📜 **First Prize** in multiple paper presentations
 - 🏋️‍♂️ **First Prize** in bodybuilding competitions
+- 🏆 **Mr. Fashionate 25** – K. Ramakrishnan College of Engineering
 
 ---
 ## 🌟 Connect with Me
