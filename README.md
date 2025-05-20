@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naveenkumar&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/stars/NaveenKumar71/NaveenKumar71?style=for-the-badge&label=GitHub%20Stars&color=gold" alt="GitHub Stars"/>
+<img src="https://img.shields.io/github/stars/NaveenKumar71?style=for-the-badge&label=GitHub%20Stars&color=gold" alt="GitHub Stars"/>
 </p>
 
 
